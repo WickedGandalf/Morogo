@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "608829513465",
+    "firebase_url": "https://customerportal-b9418.firebaseio.com",
+    "project_id": "customerportal-b9418",
+    "storage_bucket": "customerportal-b9418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608829513465:android:27572e2cf9aefb2e220c28",
+        "android_client_info": {
+          "package_name": "com.example.morogocustomerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608829513465-t2ebdcec2rpld71j6lui364r86gq99pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.morogocustomerapp",
+            "certificate_hash": "86b303f1aeb66abf9f6f33e41317d204e7bae264"
+          }
+        },
+        {
+          "client_id": "608829513465-j54jn5bnmsrrffkjpd3ltdpm8s5gcv1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN20aVVv4uBybVdUtrhQRR_Xl4JDibujk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608829513465-j54jn5bnmsrrffkjpd3ltdpm8s5gcv1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
